@@ -1,5 +1,5 @@
 # GSEArotTime
-Gene Set Enrichment Analysis (GSEA) with rotation testing for time series data
+Gene Set Enrichment Analysis (GSEA) with rotation testing for time series data.
 
 
 # References
