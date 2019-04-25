@@ -1,0 +1,14 @@
+Encoding: UTF-8
+Package: GSEArotTime
+Type: Package
+Title: GSEA rotation for time series data
+Version: 0.9
+Date: 2019-04-25
+Author: Guro Dorum
+Maintainer: Guro Dorum <guro.dorum@gmail.com>
+Description: Functions for performing Gene Set Enrichment Analysis (GSEA) with rotation testing for time series data.
+Depends: R (>= 3.0), igraph, limma
+Additional_repositories: https://bioconductor.org/biocLite.R
+License: GPL
+LazyLoad: yes
+RoxygenNote: 6.1.1
